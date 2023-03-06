@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prayag2003&label=Profile%20views&color=0e75b6&style=flat" alt="prayag2003" /> </p>
 
 - 🎯 Competitive Programming amazes me !!
-- 🍀 Web Development Enthusiast
-- 🌱 I’m currently learning **Golang**
+- 💻 Web Development Enthusiast
+- 🌱 I’m currently learning **BackEnd( NodeJS ) and Golang ** 
 
 - 📫 Get in Touch with me :- <a href="https://linkedin.com/in/prayagbhatt2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prayagbhatt2003" height="30" width="40" /></a>
 <a href="https://twitter.com/prayagbhatt2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prayagbhatt2003" height="30" width="40" /></a>
