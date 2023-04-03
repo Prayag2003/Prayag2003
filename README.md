@@ -43,4 +43,4 @@
 <a href="https://auth.geeksforgeeks.org/user/prayag2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prayag2003" height="30" width="40" /></a>
 </p>
 <hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prayag2003&" alt="prayag2003" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=prayag2003&theme=dark" /></p>
