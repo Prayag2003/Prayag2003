@@ -1,13 +1,21 @@
 <h1 align="center">Hi 👋 I'm Prayag Bhatt </h1>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">          
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" integrity="sha512-rDV59PcbnGnLVh7fuX9rtTzkFCxT06lQkxDG7HrT8Pl+nd/aewog0m0zLk7pXf+TgDxklZQHRSKavTrwuZt2yQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prayag2003&label=Profile%20views&color=0e75b6&style=flat" alt="prayag2003" /> </p>
 
 - 🎯 A Web Development Enthusiast who loves Problem Solving
-- 🌱 I’m currently learning **BackEnd Development and Golang** 
-- 🖥️ You can check all my projects @https://github.com/Prayag2003?tab=repositories
+- 🧠 I’m currently learning **BackEnd Development** 
+- 🧑‍💻 Always up to Collab and Work on Development Projects
+- 🖥️ You can check all my projects <a href = "https://github.com/Prayag2003?tab=repositories"> Click Here 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" height="20" width="20" />
+          </a>
 
+ 
 - 📫 Get in Touch with me :- <a href="https://linkedin.com/in/prayagbhatt2003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="prayagbhatt2003" height="30" width="30" /></a>
-<a href="https://twitter.com/prayagbhatt2003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="prayagbhatt2003" height="30" width="30" /></a>
+<a href="https://twitter.com/prayagbhatt2003" target="blank"></a>
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,6 +39,9 @@
 </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
 </a> 
+ <a href="https://handlebarsjs.com/" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original-wordmark.svg" width="40" height="40" />
+ </a>
  <hr>
  
  <h3 align="left">Competitive Programming Profiles</h3>
