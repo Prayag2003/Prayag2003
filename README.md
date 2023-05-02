@@ -8,7 +8,7 @@
 
 - 🎯 A Web Development Enthusiast who loves Problem Solving
 - 🧠 I’m currently learning **BackEnd Development** 
-- 🧑‍💻 Always up to Collab and Work on Development Projects
+- 🧑‍💻 Always up to Work and Contribute on Development Projects
 - 🖥️ You can check all my projects <a href = "https://github.com/Prayag2003?tab=repositories"> Click Here 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" height="20" width="20" />
           </a>
