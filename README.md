@@ -14,8 +14,8 @@
           </a>
 
  
-- 📫 Get in Touch with me :- <a href="https://linkedin.com/in/prayagbhatt2003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="prayagbhatt2003" height="30" width="30" /></a>
-<a href="https://twitter.com/prayagbhatt2003" target="blank"></a>
+- 📫 Get in Touch with me :- <a href="https://linkedin.com/in/prayagbhatt2003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="prayagbhatt2003" height="26" width="26" /></a>
+<a href="https://twitter.com/prayagbhatt2003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="prayagbhatt2003" height="26" width="26" /></a>
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
