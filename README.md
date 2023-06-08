@@ -6,8 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prayag2003&label=Profile%20views&color=0e75b6&style=flat" alt="prayag2003" /> </p>
 
-- 🎯 A Web Development Enthusiast who loves Problem Solving
-- 🧠 I’m currently learning **BackEnd Web Development** 
+- 🎯 A passionate Web Developer who loves Problem Solving
+- 🧠 I’m currently learning **Web3 Development** and practicing **Data Structures and Algorithms** 
 - 🧑‍💻 Always up to work and contribute on Development Projects
 - 🖥️ You can check all my <a href = "https://github.com/Prayag2003?tab=repositories"> Projects </a> here.
 - 📫 Get in Touch with me :- <a href="https://linkedin.com/in/prayagbhatt2003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="prayagbhatt2003" height="26" width="26" /></a>
