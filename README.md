@@ -8,9 +8,9 @@
 
 - 🎯 A passionate Web Developer who loves Problem Solving
 - 🧠 I am currently exploring **ML** and practicing **Data Structures and Algorithms** on Leetcode.
-- 🧑‍💻 Always up to work and contribute on Development Projects
+- 🧑‍💻 Always up to work and contribute on Web2 and Web3 Development Projects
 - 🖥️ You can check all my <a href = "https://github.com/Prayag2003?tab=repositories"> Projects </a> here.
-- 📫 Get in Touch with me :- <a href="https://linkedin.com/in/prayagbhatt2003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="prayagbhatt2003" height="26" width="26" /></a>
+- 📫 Get in Touch with me :)  <a href="https://linkedin.com/in/prayagbhatt2003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="prayagbhatt2003" height="26" width="26" /></a>
 <a href="https://twitter.com/prayagbhatt2003" target="blank"> &nbsp; <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="prayagbhatt2003" height="26" width="26" /></a>
 <hr>
 
@@ -21,7 +21,6 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
-  <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/></a> 
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind-css" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -46,7 +45,7 @@
 <p align="left">
 
 <a href="https://codeforces.com/profile/prag2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prag2003" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prayagbhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prayagbhatt" height="30" width="40" /></a>
+<a href="https://leetcode.com/Prayag2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prayagbhatt" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/prayag03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prayag03" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prayagbhatt2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prayagbhatt2003" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/prayag2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prayag2003" height="30" width="40" /></a>
