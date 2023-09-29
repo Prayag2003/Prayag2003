@@ -7,9 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prayag2003&label=Profile%20views&color=0e75b6&style=flat" alt="prayag2003" /> </p>
 
 - 🎯 A passionate Web Developer who loves Problem Solving
-- 🧠 I am currently exploring **ML** and practicing **Data Structures and Algorithms** on Leetcode.
-- 🧑‍💻 Always up to work and contribute on Web2 and Web3 Development Projects
-- 🖥️ You can check all my <a href = "https://github.com/Prayag2003?tab=repositories"> Projects </a> here.
+- 🧠 I am currently practicing **Data Structures and Algorithms** on Leetcode.
+- 🧑‍💻 Always up to work and contribute on Web Development Projects.
+- 🖥️ You can check all my projects <a href = "https://github.com/Prayag2003?tab=repositories">here</a>.
 - 📫 Get in Touch with me :)  <a href="https://linkedin.com/in/prayagbhatt2003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="prayagbhatt2003" height="26" width="26" /></a>
 <a href="https://twitter.com/prayagbhatt2003" target="blank"> &nbsp; <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="prayagbhatt2003" height="26" width="26" /></a>
 <hr>
