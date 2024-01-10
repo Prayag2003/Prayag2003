@@ -8,7 +8,7 @@
 
 🎯A curious and passionate Computer Science Student @PDEU'25
 
-💻 I have proficient skills in Javascript, Golang, C++ and Java. I love building backends. I have built several projects using the MERN stack, MySQL, Restful APIs, GraphQL and gRPC. I am skilled in using tools like Docker, Jenkins and Apache Kafka
+💻 I have proficient skills in Javascript, Golang, C++ and Python. I love building backends. I have built several projects using the MERN stack, MySQL, Restful APIs, GraphQL and gRPC. I am skilled in using tools like Docker, Jenkins and Apache Kafka
 
 ☕I have strong foundational knowledge of DSA, OOPS, SOLID Principles and Design Patterns
 
@@ -18,7 +18,7 @@
 
 ♟️I enjoy playing chess and painting🎨
 
-🖥️ You can check all my projects <a href="https://github.com/Prayag2003?tab=repositories)" style="display:inline-block;padding:10px 20px;background-color:#337ab7;color:#ffffff;text-decoration:none;border-radius:5px;">Click me</a>
+🖥️ You can check all my projects <a href="https://github.com/Prayag2003?tab=repositories" style="display:inline-block;padding:10px 20px;background-color:#337ab7;color:#ffffff;text-decoration:none;border-radius:5px;">Click me</a>
 
 📫 Get in Touch with me :)   <a href="https://linkedin.com/in/prayagbhatt2003" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="prayagbhatt2003" height="26" width="26" /></a>
