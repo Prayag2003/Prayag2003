@@ -1,11 +1,17 @@
-# 💫 About Me: 
+<h1 align="center">Hi 👋 I'm Prayag Bhatt </h1>
 🎯A curious and passionate Computer Science Student @PDEU'25<br><br>💻 I have proficient skills in Javascript, Golang, C++ and Python. I love building backends. I have built several projects using the MERN stack, MySQL, Restful APIs, GraphQL and gRPC. I am skilled in using tools like Docker, Jenkins and Apache Kafka<br><br>☕I have strong foundational knowledge of DSA, OOPS, SOLID Principles and Design Patterns<br><br>🧑‍💻 Always up to work and contribute on Web Development Projects<br><br>🚀 Currently i am learning AWS and reading about System Design<br><br>♟️I enjoy playing chess and painting🎨
 
 🖥️ You can check all my projects <a href="https://github.com/Prayag2003?tab=repositories" style="display:inline-block;padding:10px 20px;background-color:#337ab7;color:#ffffff;text-decoration:none;border-radius:5px;">Click me</a>
 <br><br>
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=prayag2003&label=Profile%20views&color=0e75b6&style=flat" alt="prayag2003" /> </span>
 
-## 🌐 Socials  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prayagbhatt2003) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@prayagbhatt2003) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PrayagBhatt2003)   
+
+## Connect with me
+<p align="left">
+<a href="https://twitter.com/PrayagBhatt2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nielsencv_ai" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prayagbhatt2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolaiai" height="30" width="40" /></a>
+</p>
+
 
 <hr>
 
@@ -54,5 +60,5 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/prayagbhatt2003)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/prayag2003)
 
-# 📊 GitHub Stats:
+<br><br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Prayag2003&theme=radical&hide_border=false)
