@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Prayag Bhatt </h1>
 🎯A curious and passionate Computer Science Student @PDEU'25<br><br>💻 I have proficient skills in Javascript, Golang, C++ and Python. I love building backends. I have built several projects using the MERN stack, MySQL, Restful APIs, GraphQL and gRPC. I am skilled in using tools like Docker, Jenkins and Apache Kafka<br><br>☕I have strong foundational knowledge of DSA, OOPS, SOLID Principles and Design Patterns<br><br>🧑‍💻 Always up to work and contribute on Web Development Projects<br><br>🚀 Currently i am learning AWS and reading about System Design<br><br>♟️I enjoy playing chess and painting🎨
-
+<br><br>
 🖥️ You can check all my projects <a href="https://github.com/Prayag2003?tab=repositories" style="display:inline-block;padding:10px 20px;background-color:#337ab7;color:#ffffff;text-decoration:none;border-radius:5px;">Click me</a>
 <br><br>
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=prayag2003&label=Profile%20views&color=0e75b6&style=flat" alt="prayag2003" /> </span>
