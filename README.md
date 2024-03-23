@@ -1,62 +1,62 @@
-<h1 align="center">Hi 👋 I'm Prayag Bhatt </h1>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"/>
-<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">          
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" integrity="sha512-rDV59PcbnGnLVh7fuX9rtTzkFCxT06lQkxDG7HrT8Pl+nd/aewog0m0zLk7pXf+TgDxklZQHRSKavTrwuZt2yQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prayag2003&label=Profile%20views&color=0e75b6&style=flat" alt="prayag2003" /> </p>
-
-🎯A curious and passionate Computer Science Student @PDEU'25
-
-💻 I have proficient skills in Javascript, Golang, C++ and Python. I love building backends. I have built several projects using the MERN stack, MySQL, Restful APIs, GraphQL and gRPC. I am skilled in using tools like Docker, Jenkins and Apache Kafka
-
-☕I have strong foundational knowledge of DSA, OOPS, SOLID Principles and Design Patterns
-
-🧑‍💻 Always up to work and contribute on Web Development Projects
-
-🚀 Currently i am learning AWS and reading about System Design
-
-♟️I enjoy playing chess and painting🎨
+# 💫 About Me:
+🎯A curious and passionate Computer Science Student @PDEU'25<br><br>💻 I have proficient skills in Javascript, Golang, C++ and Python. I love building backends. I have built several projects using the MERN stack, MySQL, Restful APIs, GraphQL and gRPC. I am skilled in using tools like Docker, Jenkins and Apache Kafka<br><br>☕I have strong foundational knowledge of DSA, OOPS, SOLID Principles and Design Patterns<br><br>🧑‍💻 Always up to work and contribute on Web Development Projects<br><br>🚀 Currently i am learning AWS and reading about System Design<br><br>♟️I enjoy playing chess and painting🎨
 
 🖥️ You can check all my projects <a href="https://github.com/Prayag2003?tab=repositories" style="display:inline-block;padding:10px 20px;background-color:#337ab7;color:#ffffff;text-decoration:none;border-radius:5px;">Click me</a>
+ 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prayag2003&label=Profile%20views&color=0e75b6&style=flat" alt="prayag2003" /> </p>
 
-📫 Get in Touch with me :)   <a href="https://linkedin.com/in/prayagbhatt2003" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="prayagbhatt2003" height="26" width="26" /></a>
-<a href="https://twitter.com/prayagbhatt2003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="prayagbhatt2003" height="26" width="26"/></a>
 
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prayagbhatt2003) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@prayagbhatt2003) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PrayagBhatt2003) 
 <hr>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
- 
 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
- <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"  alt="Golang" width="40" height="40" /></a>
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
- <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/></a> 
- <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src= "https://icongr.am/devicon/express-original.svg?size=128&color=currentColor" alt="ExpressJS" width="40" height="40"/></a> 
- <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40" /></a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src= "https://github.com/ethereum/solidity-underhanded-contest/blob/master/favicon.ico" alt="solidity" width="40" height="40"/></a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src= "https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt=" numpy" width="40" height="40"/></a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src= "https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt=" pandas" width="40" height="40"/></a> 
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src= "https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt=" jupyter" width="40" height="40"/></a> 
- <hr>
- 
- <h3 align="left">Competitive Programming Profiles</h3>
-<p align="left">
+# 💻 Tech Skills:
+### Programming Languages:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) 
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) 
 
-<a href="https://codeforces.com/profile/prag2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prag2003" height="30" width="40" /></a>
-<a href="https://leetcode.com/Prayag2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prayagbhatt" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/prayag03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prayag03" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/prayagbhatt2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prayagbhatt2003" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/prayag2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prayag2003" height="30" width="40" /></a>
-</p>
-<hr>
-<p><img align="center" src="https://streak-stats.demolab.com?user=prayag2003&theme=dark" /></p>
+### Developement:
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+
+### Databases:  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Github Actions](https://img.shields.io/badge/github_actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
+ 
+### Competitive Programming Profiles
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/prag2003)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Prayag2003/)
+[![Codechef](https://img.shields.io/badge/Codechef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/prayag03)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/prayagbhatt2003)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/prayag2003)
+
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Prayag2003&theme=radical&hide_border=false)<br/>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
