@@ -1,18 +1,17 @@
-# 💫 About Me:
+# 💫 About Me: 
 🎯A curious and passionate Computer Science Student @PDEU'25<br><br>💻 I have proficient skills in Javascript, Golang, C++ and Python. I love building backends. I have built several projects using the MERN stack, MySQL, Restful APIs, GraphQL and gRPC. I am skilled in using tools like Docker, Jenkins and Apache Kafka<br><br>☕I have strong foundational knowledge of DSA, OOPS, SOLID Principles and Design Patterns<br><br>🧑‍💻 Always up to work and contribute on Web Development Projects<br><br>🚀 Currently i am learning AWS and reading about System Design<br><br>♟️I enjoy playing chess and painting🎨
 
 🖥️ You can check all my projects <a href="https://github.com/Prayag2003?tab=repositories" style="display:inline-block;padding:10px 20px;background-color:#337ab7;color:#ffffff;text-decoration:none;border-radius:5px;">Click me</a>
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prayag2003&label=Profile%20views&color=0e75b6&style=flat" alt="prayag2003" /> </p>
+<br><br>
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=prayag2003&label=Profile%20views&color=0e75b6&style=flat" alt="prayag2003" /> </span>
 
+## 🌐 Socials  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prayagbhatt2003) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@prayagbhatt2003) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PrayagBhatt2003)   
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prayagbhatt2003) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@prayagbhatt2003) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PrayagBhatt2003) 
 <hr>
 
 
 # 💻 Tech Skills:
-### Programming Languages:
+### Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -23,7 +22,7 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) 
 
-### Developement:
+### Developement
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -34,7 +33,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 
-### Databases:  
+### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -56,7 +55,4 @@
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/prayag2003)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Prayag2003&theme=radical&hide_border=false)<br/>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Prayag2003&theme=radical&hide_border=false)
