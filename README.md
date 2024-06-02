@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Prayag Bhatt </h1>
-🎯A curious and passionate Computer Science Student @PDEU'25<br><br>💻 I have proficient skills in Javascript, Golang, C++ and Python. I love building backends. I have built several projects using the MERN stack, MySQL, Restful APIs, GraphQL and gRPC. I am skilled in using tools like Docker, Jenkins and Apache Kafka<br><br>☕I have strong foundational knowledge of DSA, OOPS, SOLID Principles and Design Patterns<br><br>🧑‍💻 Always up to work and contribute on Web Development Projects<br><br>🚀 Currently i am learning AWS and reading about System Design<br><br>♟️I enjoy playing chess and painting🎨
+🎯A curious and passionate Computer Science Student @PDEU'25<br><br>💻 I have proficient skills in Javascript, Typescript, Golang, C++ and Python. I love building backends. I have built several projects using the MERN stack, MySQL, Restful APIs, GraphQL and gRPC. I am skilled in using tools like Docker, Jenkins, Terraform and Apache Kafka<br><br>☕I have strong foundational knowledge of DSA, OOPS, SOLID Principles and Design Patterns<br><br>🧑‍💻 Always up to work and contribute on Development Projects<br><br>🚀 Currently I am learning AWS and System Design<br><br>♟️Enjoy playing chess and painting🎨
 <br><br>
 🖥️ You can check all my projects <a href="https://github.com/Prayag2003?tab=repositories" style="display:inline-block;padding:10px 20px;background-color:#337ab7;color:#ffffff;text-decoration:none;border-radius:5px;">Click me</a>
 <br><br>
@@ -8,8 +8,13 @@
 
 ## Connect with me
 <p align="left">
-<a href="https://twitter.com/PrayagBhatt2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nielsencv_ai" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prayagbhatt2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolaiai" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/prayagbhatt2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://twitter.com/PrayagBhatt2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/logically_insane" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/006/892/625/non_2x/discord-logo-icon-editorial-free-vector.jpg"  alt="Discord" height="40" width="40" /></a>
+<br><br>
+<a href="https://medium.com/@prayagbhatt2003" target="blank"><img align="center" src="https://findingtom.com/images/uploads/medium-logo/article-image-00.jpeg"  alt="Medium" height="40" width="40" /></a>
+<a href="https://hashnode.com/@Prag2003" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/NhWlAT4TbjIjirMZfl77W2B8Y1P0gpSNTui6aQYUXJNMhbe8OrUhnfjtccRF3eNFkRo"  alt="Hashnode" height="40" width="40" /></a>
 </p>
 
 
@@ -43,6 +48,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Dynamo DB](https://img.shields.io/badge/dynamo-db?style=for-the-badge&logo=dynamodb)
 
 ### DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
