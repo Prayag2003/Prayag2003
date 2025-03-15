@@ -12,7 +12,6 @@
 <a href="https://linkedin.com/in/prayagbhatt2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://twitter.com/PrayagBhatt2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/logically_insane" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/006/892/625/non_2x/discord-logo-icon-editorial-free-vector.jpg"  alt="Discord" height="40" width="40" /></a>
-<br><br>
 <a href="https://medium.com/@prayagbhatt2003" target="blank"><img align="center" src="https://findingtom.com/images/uploads/medium-logo/article-image-00.jpeg"  alt="Medium" height="40" width="40" /></a>
 <a href="https://hashnode.com/@Prag2003" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/NhWlAT4TbjIjirMZfl77W2B8Y1P0gpSNTui6aQYUXJNMhbe8OrUhnfjtccRF3eNFkRo"  alt="Hashnode" height="40" width="40" /></a>
 </p>
