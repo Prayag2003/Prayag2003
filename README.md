@@ -1,74 +1,206 @@
-<h1 align="center">Hi 👋 I'm Prayag Bhatt </h1>
-🎯A curious and passionate final year Computer Science Student @PDEU'25<br><br>
-🎉 I have built cool stuff previously interning at 2 Startups (Quicko & Breezo.ai) <br><br>
-🏆 Won 3 Hackathons (JPMC Code For Good, DotSlash and HackNUThon), Ranked 56 in Amazon ML Hackathon. <br><br>
-💻 I have proficient skills in Golang, C++, Linux, Javascript, Typescript and Python. I love building backends. I have built several projects using the MERN stack, MySQL, Restful APIs, GraphQL and gRPC. I am skilled in using tools like Docker, Jenkins, Terraform and Apache Kafka<br><br>
-☕I have strong foundational knowledge of DSA, OOPS, SOLID Principles and Design Patterns<br><br>
-🧑‍💻 Always up to work and contribute on Projects<br><br>🚀 Currently I am upskilling and preparing for CKA Exam.<br><br>
-♟️Enjoys playing chess and painting🎨
-<!-- <br><br>
-🖥️ You can check all my projects <a href="https://github.com/Prayag2003?tab=repositories" style="display:inline-block;padding:10px 20px;background-color:#337ab7;color:#ffffff;text-decoration:none;border-radius:5px;">Click me</a> -->
-<br><br>
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=prayag2003&label=Profile%20views&color=0e75b6&style=flat" alt="prayag2003" /> </span>
+# <div align="center">👋 Hi, I'm Prayag Bhatt</div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Software+Developer+%40+JPMorganChase;Computer+Science+Graduate+PDEU'25;Backend+Developer+%26+Problem+Solver;3x+Hackathon+Winner+🥇;Building+Cool+Stuff+Everyday!" alt="Typing SVG" />
+</div>
 
-## Connect with me
-<p align="left">
+<br>
 
-<a href="https://linkedin.com/in/prayagbhatt2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://twitter.com/PrayagBhatt2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://medium.com/@prayagbhatt2003" target="blank"><img align="center" src="https://findingtom.com/images/uploads/medium-logo/article-image-00.jpeg"  alt="Medium" height="40" width="40" /></a>
-<a href="https://hashnode.com/@Prag2003" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/NhWlAT4TbjIjirMZfl77W2B8Y1P0gpSNTui6aQYUXJNMhbe8OrUhnfjtccRF3eNFkRo"  alt="Hashnode" height="40" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://github.com/Prayag2003.png" width="150" height="150" style="border-radius: 50%; border: 4px solid #6366F1;" alt="Prayag Bhatt" />
+</div>
 
+<br>
 
-<hr>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
+<table>
+<tr>
+<td width="50%">
 
-# 💻 Tech Skills:
-### Programming Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) 
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) 
+🎯 **Software Developer (Golang) @JPMorganChase | Computer Science Graduate PDEU'25**
 
-### Developement
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+💼 **Current Role**: Building cool stuff everyday and keeping myself up to date with all the latest tech
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Dynamo DB](https://img.shields.io/badge/dynamo-db?style=for-the-badge&logo=dynamodb)
+🎉 **Previous Experience**: Built cool stuff interning at 2 Startups
+- 🏢 **Quicko** - FinTech Tax Platform
+- 🤖 **Breezo.ai** - Fullstack Developer Intern
 
-### DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Github Actions](https://img.shields.io/badge/github_actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+🏆 **Achievements**:
+- Won 3 National Hackathons (JPMC Code For Good 2024, DotSlash 7.0, HackNUThon 4.)
+- Ranked 56 in Amazon ML Hackathon 2024
 
- 
-### Competitive Programming Profiles
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/prag2003)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Prayag2003/)
-[![Codechef](https://img.shields.io/badge/Codechef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/prayag03)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/prayagbhatt2003)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/prayag2003)
+</td>
+<td width="50%">
 
-<br><br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Prayag2003&theme=radical&hide_border=false)
+🚀 **Currently**:
+- Building cool stuff everyday
+- Staying up to date with latest tech trends
+- Upskilling for CKA Exam
+- Looking to contribute to Open Source Projects
+
+💡 **Interests**:
+- ♟️ Chess Player
+- 🎨 Painting
+- 📚 Tech Blogs Writing
+
+📍 **Strong Foundation**:
+- 🧠 DSA, OOPs, SOLID Principles
+- 🏗️ Design Patterns & System Design
+
+</td>
+</tr>
+</table>
+
+---
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack
+
+### 💻 Programming Languages
+<div align="center">
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+
+</div>
+
+### 🌐 Development Stack
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+</div>
+
+### 🗄️ Databases
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+
+</div>
+
+### ☁️ DevOps & Cloud
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+</div>
+
+### 🤖 GenAI & ML
+<div align="center">
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-4ECDC4?style=for-the-badge&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Atlas%20Vector%20Search-00684A?style=for-the-badge&logo=mongodb&logoColor=white)
+![Fine Tuning](https://img.shields.io/badge/Model%20Fine%20Tuning-FF9500?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect With Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prayagbhatt2003)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PrayagBhatt2003)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@prayagbhatt2003)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Prag2003)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prayagbhatt2003@gmail.com)
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> Competitive Programming
+
+<div align="center">
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/prag2003)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Prayag2003/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/prayag03)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/prayagbhatt2003)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/prayag2003)
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prayag2003&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prayag2003&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prayag2003&theme=tokyonight&hide_border=true&background=0D1117)
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Latest Activity
+
+<div align="center">
+  
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prayag2003&theme=tokyo-night&bg_color=0D1117&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=Prayag2003&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+<div align="center">
+  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Thanks for visiting! Let's connect and build something amazing together!
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Prayag2003&label=Profile%20views&color=6366f1&style=flat)
+
+</div>
+
+---
+
+<div align="center">
+  
+**💙 Open to opportunities and collaborations!**
+
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+
+</div>
