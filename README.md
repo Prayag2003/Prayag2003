@@ -36,7 +36,7 @@
 🚀 **Currently**:
 - Building cool stuff everyday
 - Staying up to date with latest tech trends
-- Upskilling for CKA Exam
+- Learning Rust
 - Looking to contribute to Open Source Projects
 
 💡 **Interests**:
@@ -68,7 +68,8 @@
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Gremlin](https://img.shields.io/badge/Gremlin-6DB33F?style=for-the-badge&logo=apache&logoColor=white)
 </div>
 
 ### 🌐 Development Stack
