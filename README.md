@@ -27,7 +27,7 @@
 - 🤖 **Breezo.ai** - Fullstack Developer Intern
 
 🏆 **Achievements**:
-- Won 3 National Hackathons (JPMC Code For Good 2024, DotSlash 7.0, HackNUThon 4.)
+- Won 3 National Hackathons [ JPMC Code For Good 2024, DotSlash 7.0, HackNUThon 4.0 ]
 - Ranked 56 in Amazon ML Hackathon 2024
 
 </td>
