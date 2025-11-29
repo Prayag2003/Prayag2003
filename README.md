@@ -4,16 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Software+Developer+%40+JPMorganChase;Computer+Science+Graduate+PDEU'25;Backend+Developer+%26+Problem+Solver;3x+Hackathon+Winner+🥇;Building+Cool+Stuff+Everyday!" alt="Typing SVG" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github.com/Prayag2003.png" width="150" height="150" style="border-radius: 50%; border: 4px solid #6366F1;" alt="Prayag Bhatt" />
-</div>
-
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
-
 <table>
 <tr>
 <td width="50%">
