@@ -17,7 +17,7 @@
 - 🤖 **Breezo.ai** - Fullstack Developer Intern
 
 🏆 **Achievements**:
-- Won 3 National Hackathons [ JPMC Code For Good 2024, DotSlash 7.0, HackNUThon 4.0 ]
+- Won 3 National Hackathons [JPMC Code For Good 2024, DotSlash 7.0, HackNUThon 4.0]
 - Ranked 56 in Amazon ML Hackathon 2024
 
 </td>
@@ -26,8 +26,7 @@
 🚀 **Currently**:
 - Building cool stuff everyday
 - Staying up to date with latest tech trends
-- Learning Rust
-- Looking to contribute to Open Source Projects
+- Studying and Designing Systems 
 
 💡 **Interests**:
 - ♟️ Chess Player
@@ -35,7 +34,7 @@
 - 📚 Tech Blogs Writing
 
 📍 **Strong Foundation**:
-- 🧠 DSA, OOPs, SOLID Principles
+- 🧠 DSA, CN, OS, OOPs, SOLID Principles
 - 🏗️ Design Patterns & System Design
 
 </td>
@@ -49,6 +48,7 @@
 ### 💻 Programming Languages
 <div align="center">
 
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -94,6 +94,14 @@
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### 🏅 Certifications
+<div align="center">
+
+[![AWS SAA-C03](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/692d96e1-22b4-4d7d-a5fc-954dc0d5d216/public_url)
+[![AWS CCP](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/bc746286-f244-43aa-9425-66043594e818/public_url)
+
+</div>
 
 </div>
 
