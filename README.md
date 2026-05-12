@@ -12,9 +12,9 @@
 
 💼 **Current Role**: Building cool stuff everyday and keeping myself up to date with all the latest tech
 
-🎉 **Previous Experience**: Built cool stuff interning at 2 Startups
-- 🏢 **Quicko** - FinTech Tax Platform
-- 🤖 **Breezo.ai** - Fullstack Developer Intern
+🎉 **Experience**: Fullstack developer intern at 2 startups
+- **Quicko** - FinTech Tax Platform (Turbotax equivalent for India)
+- **Breezo.ai** - Fullstack Developer Intern
 
 🏆 **Achievements**:
 - Won 3 National Hackathons [JPMC Code For Good 2024, DotSlash 7.0, HackNUThon 4.0]
@@ -29,13 +29,13 @@
 - Studying and Designing Systems 
 
 💡 **Interests**:
-- ♟️ Chess Player
-- 🎨 Painting
-- 📚 Tech Blogs Writing
+- Chess Player (Max Rating 2017 in Rapid [chess.com](https://chess.com/member/prag2003)
+- Painting
+- Writing Technical Blogs
 
 📍 **Strong Foundation**:
-- 🧠 DSA, CN, OS, OOPs, SOLID Principles
-- 🏗️ Design Patterns & System Design
+- DSA, CN, OS, OOPs, SOLID Principles
+- Design Patterns & System Design
 
 </td>
 </tr>
