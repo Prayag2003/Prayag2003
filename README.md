@@ -28,10 +28,10 @@
 🚀 **Currently**:
 - Building cool stuff everyday
 - Staying up to date with latest tech trends
-- Studying and Designing Systems 
+- Studying Distributed Systems 
 
 💡 **Interests**:
-- Chess Player (Max Rating 2017 in Rapid [chess.com](https://chess.com/member/prag2003)
+- Chess Player (Max Rapid Rating 2017 on Chess.com)
 - Painting
 - Writing Technical Blogs
 
