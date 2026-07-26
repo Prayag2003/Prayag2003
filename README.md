@@ -8,7 +8,7 @@
 <tr>
 <td width="50%">
 
-🎯 **SDE-1 @JPMorganChase | Computer Science Graduate PDEU'25**
+🎯 **SDE-I @JPMorganChase | Computer Science Graduate PDEU'25**
 
 💼 **Current Role**: Building cool stuff everyday and keeping myself up to date with all the latest tech
 
