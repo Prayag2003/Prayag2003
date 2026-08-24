@@ -19,7 +19,7 @@
 **Achievements**:
 - Won 3 National Hackathons [JPMC Code For Good 2024, DotSlash 7.0, HackNUThon 4.0]
 - Ranked 56 in Amazon ML Hackathon 2024
-- AWS 2x Certified
+- AWS 3x Certified
 
 
 </td>
