@@ -31,7 +31,7 @@
 - Studying Distributed Systems 
 
 **Interests**:
-- Chess Player (Max Rapid Rating 2017 on Chess.com)
+- Chess Player (Max Rapid Rating 2026 on Chess.com)
 - Painting
 - Writing Technical Blogs
 
