@@ -8,15 +8,15 @@
 <tr>
 <td width="50%">
 
-🎯 **SDE-I JPMorganChase | Computer Science Graduate PDEU'25**
+**SDE-I JPMorganChase | Computer Science Graduate PDEU'25**
 
-💼 **Current Role**: Building cool stuff everyday and keeping myself up to date with all the latest tech
+**Current Role**: Building cool stuff everyday and keeping myself up to date with all the latest tech
 
-🎉 **Experience**: Fullstack developer Intern at 2 startups
+**Experience**: Fullstack developer Intern at 2 startups
 - **Quicko** - FinTech Tax Platform (Turbotax equivalent for India)
 - **Breezo.ai** - Fullstack Developer Intern
 
-🏆 **Achievements**:
+**Achievements**:
 - Won 3 National Hackathons [JPMC Code For Good 2024, DotSlash 7.0, HackNUThon 4.0]
 - Ranked 56 in Amazon ML Hackathon 2024
 - AWS 2x Certified
@@ -25,17 +25,17 @@
 </td>
 <td width="50%">
 
-🚀 **Currently**:
+**Currently**:
 - Building cool stuff everyday
 - Staying up to date with latest tech trends
 - Studying Distributed Systems 
 
-💡 **Interests**:
+**Interests**:
 - Chess Player (Max Rapid Rating 2017 on Chess.com)
 - Painting
 - Writing Technical Blogs
 
-📍 **Strong Foundation**:
+**Strong Foundation**:
 - DSA, CN, OS, OOPs, SOLID Principles
 - Design Patterns & System Design
 
